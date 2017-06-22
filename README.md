@@ -1,4 +1,4 @@
-# AWS Lightsail Larvel Script
+# AWS Lightsail Laravel Script
 Script to install, configure and test Laravel apps with Ubuntu 16.4 LTS on AWS Lightsail
 
 
